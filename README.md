@@ -73,12 +73,4 @@ These metrics were aggregated at the `CustomerID` level using groupby and aggreg
   - Loyalty programs
   - Churn prevention campaigns
 
----
-
-##  Future Improvements
-
-- Handle missing values and outliers explicitly (if working with real-world data).
-- Add cluster interpretation and label clusters meaningfully (e.g., "High Value", "Loyal", "At Risk").
-- Incorporate additional features like product categories or region.
-- Try other clustering algorithms: Hierarchical, DBSCAN.
 
